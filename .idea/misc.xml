@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ProjectResources">
+    <resource url="http://www.w3.org/2005/xpath-datatypes" location="$PROJECT_DIR$" />
+    <resource url="http://www.w3.org/2005/xpath-functions" location="$PROJECT_DIR$" />
+    <resource url="http://www.w3.org/2005/xqt-errors" location="$PROJECT_DIR$" />
+    <resource url="www.microsoft.com/SqlServer/Dts" location="$PROJECT_DIR$" />
+    <resource url="www.microsoft.com/sqlserver/dts/tasks/sqltask" location="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (base)" project-jdk-type="Python SDK" />
 </project>
